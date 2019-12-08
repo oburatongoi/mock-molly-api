@@ -11,7 +11,7 @@
             "subfolders": [
                 {
                     "id": 1,
-                    "uuid": "6e1e2ca4-3aa2-43a0-80dd-9d91e39d5493",
+                    "uuid": "6e1e2ca4-3aa2-43a0-80dd-9d91e23d5493",
                     "name": "Projects Subfolder",
                     "user_id": 1,
                     "parent_id": 1,
@@ -24,7 +24,7 @@
         
         {
             "id": 2,
-            "uuid": "6e1e2ca4-3aa2-43a0-80dd-9d91e39d5493",
+            "uuid": "6e1e2ca4-3aa2-43a0-80dd-9d91235d5493",
             "name": "Personal",
             "user_id": 1,
             "parent_id": null,
@@ -33,7 +33,7 @@
             "subfolders": [
                 {
                     "id": 1,
-                    "uuid": "6e1e2ca4-3aa2-43a0-80dd-9d91e39d5493",
+                    "uuid": "6e1e2ca4-3aa2-43a0-80dd-9d91098d5493",
                     "name": "Personal Subfolder",
                     "user_id": 1,
                     "parent_id": 2,
