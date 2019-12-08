@@ -18,8 +18,8 @@
                     "parent_model": "folder",
                     "notepad": "here are some notes",
                     "subfolders": []
-                },
-            ],
+                }
+            ]
         },
         
         {
@@ -40,8 +40,8 @@
                     "parent_model": "folder",
                     "notepad": "here are some notes",
                     "subfolders": []
-                },
-            ],
-        },
+                }
+            ]
+        }
     ]
 }
